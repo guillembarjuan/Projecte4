@@ -121,7 +121,7 @@ Quines dades es copien i amb quina freqüència (Separant Servidor / Clients i c
 
 ---
 
-[Solució de la tasca](solucio.md)
+[Explicació de la tasca](README.md)
 
 ---
 

@@ -68,4 +68,51 @@ Al final del projecte, hem lliurat una **carpeta professional completa** amb:
 - Tauler Kanban complet i actualitzat.
 - Reflexió en clau de sostenibilitat i economia circular.
 
+---
+
+## Enllaços a les carpetes
+
+### Tasques
+
+[Tasca 1](tasca01) : DRP: còpies de seguretat. Estudi cas client (treball cooperatiu)
+
+[Tasca 2](tasca02) : DPR: còpies de seguretat. Cas pràctic
+
+[Tasca 3](tasca03) : Pla de recuperació davant desastres: imatges del sistema
+
+[Tasca 4](tasca04) : Accés remot
+
+[Tasca 5](tasca05) : Accés Remot. Connexió via SSH (tasca individual)
+
+[Tasca 6](tasca06) : Accés remot. Escriptori remot (RDP) (tasca individual)
+
+[Tasca 7](tasca07) : Accés remot. Serveis d’assistència remota (tasca en parelles)
+
+[Tasca 8](tasca08) : Auditoria de Qualitat i Estandardització de Servidors (tasca individual)
+
+[Tasca 9](tasca09) : Servidor fitxers Linux. NFS (tasca individual)
+
+[Tasca 10](tasca10) : Servidor impressió Linux. CUPS (tasca individual)
+
+[Tasca 11](tasca11) : Introducció a Figma: nocions bàsiques de disseny d’interfícies
+
+[Tasca 12](tasca12) : Fonaments del Disseny Web Comercial: Landing Page + Procés de Checkout
+
+[Tasca 13](tasca13) : Disseny d’un E-commerce en Figma (Landing Page + Checkout)
+
+[Tasca 14](tasca14) : Sostenibilitat. Prova Escrita - 1h
+
+[Tasca 15](tasca15) : Com de circular és la meva família professional?
+
+### Projectes finals
+
+[Projecte 1](projecte01) : GitHub. Treballant de forma col·laborativa: forks i pull request.
+
+[Projecte 2](projecte02) : Presentació i Projecció de la Maqueta web al Client
+
+[Projecte 3](projecte03) : Kanban del projecte
+
+[Projecte 4](projecte04) : Fitxes d’Economia Circular
+
+
 Aquest conjunt de productes constitueix **la millor prova del nostre progrés** i del nostre futur potencial com a professionals IT.

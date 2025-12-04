@@ -79,7 +79,7 @@ Aquesta comanda verifica la sintaxi del fitxer de configuració sense iniciar re
 
 ## Fase 2: Configuració del Client Windows 11
 
-###Creació de la maquina
+### Creació de la maquina
 
 ![Informació del sistema Windows](/tasca05/img_t05/captura10.png)
 

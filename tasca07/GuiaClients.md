@@ -9,9 +9,11 @@ Hola! Aquest és el manual que has de seguir quan necessitis ajuda remota dels t
 El primer pas és baixar l’aplicació **TeamViewer QuickSupport**. Aquesta versió no necessita instal·lació, és només per rebre ajuda.
 
 ![Pàgina de descàrrega de TeamViewer](/tasca07/img_client/captura1.png)
+
 A la pàgina web de TeamViewer, busca l’opció de descàrrega per a Windows.
 
 ![Secció de descàrregues](/tasca07/img_client/captura2.png)
+
 Desplaça’t fins a la part on posa **“Descarga QuickSupport – Recibe asistencia”** i fes-hi clic.
 
 ---
@@ -21,6 +23,7 @@ Desplaça’t fins a la part on posa **“Descarga QuickSupport – Recibe asist
 Un cop descarregat l’arxiu TeamViewer_QuickSupport.exe, executa’l.
 
 ![Pantalla inicial de QuickSupport](/tasca07/img_client/captura4.png)
+
 Se t’obrirà aquesta finestra. Has de marcar la casella on diu **“Acepto el contrato…”** i després clicar **“Continuar”**.
 
 ---
@@ -30,6 +33,7 @@ Se t’obrirà aquesta finestra. Has de marcar la casella on diu **“Acepto el 
 Després d’acceptar els termes, es mostrarà la pantalla principal de QuickSupport.
 
 ![Pantalla principal de QuickSupport](/tasca07/img_client/captura5.png)
+
 Aquí veuràs dues coses molt importants:
 
 **El teu ID:** Un número de 9 digits (exemple: 119 814 887)

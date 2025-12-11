@@ -1,4 +1,4 @@
-# 🖥️ T07: Serveis d’Assistència Remota (Tasca en Parelles)
+# 🖥️ T07: Serveis d’Assistència Remota (Miquel Vico i Guillem Barjuan)
 
 ## 📄 Descripció de la Tasca
 

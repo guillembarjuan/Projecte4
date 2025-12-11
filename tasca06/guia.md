@@ -183,7 +183,7 @@ Un cop superada l'alerta de seguretat (si s'ha escollit "Si"), l'escriptori grà
 
 En aquesta captura es pot veure l'escriptori del Zorin OS (`client-VirtualBox`) amb el seu fons de pantalla per defecte i alguns accessos directes. El client Windows ara té control complet sobre el servidor Zorin, permetent realitzar tasques d'administració o suport tècnic com si estigués físicament davant de l'equip remot.
 
-## Conclusió General i Bones Pràctiques
+## Conclusió
 
 Aquesta guia ha cobrit el flux complet de connexions RDP bidireccionals:
 

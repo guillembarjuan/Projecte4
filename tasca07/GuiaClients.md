@@ -14,6 +14,8 @@ A la pàgina web de TeamViewer, busca l’opció de descàrrega per a Windows.
 
 ![Secció de descàrregues](/tasca07/img_client/captura2.png)
 
+![Arxiu descargat](/tasca07/img_client/captura3.png)
+
 Desplaça’t fins a la part on posa **“Descarga QuickSupport – Recibe asistencia”** i fes-hi clic.
 
 ---

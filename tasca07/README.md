@@ -117,4 +117,8 @@ L’objectiu és que fins i tot un usuari sense coneixements tècnics pugui comp
 
 ---
 
+[Guia per a clients](GuiaClients.md)
 
+[Guia per a tecnics](GuiaInterna.md)
+
+[Tornar a la pàgina principal](../)

@@ -103,6 +103,6 @@ Aquesta PoC valida una proposta realista per centralitzar la impressió i millor
 
 ---
 
-[Guia de la tasca](Guia.md)
+[Guia de la tasca](guia.md)
 
 [Tornar a la pàgina principal](../)
